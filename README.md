@@ -4,7 +4,7 @@
 
 ### Welcome to my profile! 👋
 
-- 👤 I’m currently working with Angular 9 at bit pagg
-- ❤ I’m currently learning NodeJS, React and React Native!
+- 👤 I’m currently working at Groundbreaker Technologies
+- ❤ I’m currently learning NodeJS Stack and a lot of Infra stuff!
 - 📫 Reach me at geraldojuni@hotmail.com
 
