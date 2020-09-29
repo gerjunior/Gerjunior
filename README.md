@@ -4,7 +4,7 @@
 
 ### Welcome to my profile! 👋
 
-- 👤 I’m currently working at Groundbreaker Technologies
-- ❤ I’m currently learning NodeJS Stack and a lot of Infra stuff!
+- 👤 I’m currently working at Groundbreaker Technologies 
+- ❤ I’m always improving on NodeJS and learning AWS Tools
 - 📫 Reach me at geraldojuni@hotmail.com
 
