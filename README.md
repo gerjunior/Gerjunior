@@ -12,14 +12,14 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      width="330"
+      width="320"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerjunior&theme=dracula&custom_title=gerjunior's%20week%20top%20langs"
     />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      width="449"
+      width="435"
       src="https://github-readme-stats.vercel.app/api/wakatime?username=Gerjunior&theme=dracula&custom_title=gerjunior's%20week%20status"
     />
   </a>
