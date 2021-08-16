@@ -4,29 +4,31 @@
 
 ### Welcome to my profile! 👋
 
-- 👤 I’m currently working at Groundbreaker Technologies 
-- ❤ I’m always improving on NodeJS and learning AWS Tools
-- 📫 Reach me at geraldojuni@hotmail.com
+- 👤 I’m currently working at Groundbreaker 
+- ❤ I’m always improving on **NodeJS**, **AWS** and the **React** environment
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/gerjunior/)
 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerjunior&layout=compact"
+      width="386"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerjunior&theme=dracula&custom_title=gerjunior's%20week%20top%20langs"
     />
   </a>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=gerjunior&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      width="525"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Gerjunior&theme=dracula&custom_title=gerjunior's%20week%20status"
     />
   </a>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Gerjunior"
+      width="55%"
+      height="183"
+      src="https://github-readme-stats.vercel.app/api?username=gerjunior&count_private=true&show_icons=true&custom_title=gerjunior's%20Github%20status&hide=issues&count_private=true&theme=dracula"
     />
   </a>
 </p>
