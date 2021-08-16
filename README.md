@@ -26,8 +26,6 @@
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      width="55%"
-      height="183"
       src="https://github-readme-stats.vercel.app/api?username=gerjunior&count_private=true&show_icons=true&custom_title=gerjunior's%20Github%20status&hide=issues&count_private=true&theme=dracula"
     />
   </a>
