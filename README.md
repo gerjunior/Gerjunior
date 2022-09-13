@@ -13,7 +13,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       width="320"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerjunior&theme=dracula&custom_title=gerjunior's%20week%20top%20langs"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerjunior&theme=dracula&custom_title=gerjunior's%20top%20langs"
     />
   </a>
   
