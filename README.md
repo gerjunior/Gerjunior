@@ -6,6 +6,7 @@
 
 - 👤 I’m currently working at Groundbreaker 
 - ❤ I’m always improving on **NodeJS**, **AWS** and the **React** environment
+- Getting professional on Golang 🦾
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/gerjunior/)
 
 
