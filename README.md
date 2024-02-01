@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Geraldo Silva from Brazil, currently located at the city of Franca, SP.<br><br>- 🔭 I’m working as Senior Software Engineer at X-Team!<br>- 📚 I'm currently learning Web3.<br>- ⚡ In my free time I read (normally science fiction books)!</p>
+<p align="left">I'm Geraldo Silva from Brazil, currently located at the city of Franca, SP.<br><br>- 🔭 I’m working as Senior Software Engineer at Edvisor!<br>- 👨‍🏫 I’m also teaching Web Development at CodePath <br><br>- 📚 I'm currently learning AWS, and I've already got the AWS Certified Developer certification 🏆 <br>- ⚡ In my free time I read (normally science fiction books)!</p>
 
 ###
 
