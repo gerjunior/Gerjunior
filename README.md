@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Geraldo Silva from Brazil, currently located at the city of Franca, SP.<br><br>- 🔭 I’m working as Senior Software Engineer at Edvisor!<br>- 👨‍🏫 I’m also teaching Web Fundamentals and Advanced Web Development at CodePath <br><br>- 📚 I'm currently learning AWS, and I've already got the AWS Certified Developer certification 🏆 <br>- ⚡ In my free time I read (normally science fiction books)!</p>
+<p align="left">I'm Geraldo Silva from Brazil, currently located at the city of Franca, SP.<br><br>- 🔭 I’m working as Senior Software Engineer at Edvisor!<br>- 👨‍🏫 I’m also teaching Web Fundamentals and Advanced Web Development at CodePath <br><br>- 📚 I pursue the AWS Certified Developer certification 🏆 <br>- ⚡ I'm building my own startup that uses RAG, Vector Search and more to build an advanced search tool for lawyers!</p>
 
 ###
 
